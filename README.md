@@ -1,0 +1,1 @@
+this repo represent a amazon clone project
