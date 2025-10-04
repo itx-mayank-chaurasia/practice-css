@@ -24,7 +24,7 @@
 }
 
 .logo {
-    background-image: url("./amazon-logo.jpg");
+    background-image: url("practice-css/amazon-logo.jpg");
     background-size: cover;
     height: 50px;
 
@@ -168,7 +168,7 @@ a {
 .hero-section {
     height: 600px;
     width: 99vw;
-    background-image: url("./hero1.jpg");
+    background-image: url("practice-css/hero1.jpg");
     background-size: cover;
     display: flex;
     flex-direction: column;
@@ -194,23 +194,23 @@ a {
 
 @keyframes imgslider {
     0% {
-        background-image: url("./hero1.jpg");
+        background-image: url("practice-css/hero1.jpg");
     }
 
     20% {
-        background-image: url("./hero2.jpg");
+        background-image: url("practice-css/hero2.jpg");
     }
 
     40% {
-        background-image: url("./hero3.jpg");
+        background-image: url("practice-css/hero3.jpg");
     }
 
     80% {
-        background-image: url("./hero4.jpg");
+        background-image: url("practice-css/hero4.jpg");
     }
 
     100% {
-        background-image: url("./hero1.jpg");
+        background-image: url("practice-css/hero1.jpg");
     }
 }
 
@@ -247,7 +247,7 @@ a {
 .product1 {
     height: 80%;
     width: 90%;
-    background-image: url("./first_item/item1.jpeg");
+    background-image: url("practice-css/first_item/item1.jpeg");
     background-size: cover;
     /* filter: drop-shadow(0px 10px 10px #03e9f4); */
     transition: 20ms ease-in-out;
@@ -297,7 +297,7 @@ a {
 .product2 {
     height: 80%;
     width: 90%;
-    background-image: url("./second_item/item_1.jpg");
+    background-image: url("practice-css/second_item/item_1.jpg");
     background-size: cover;
     /* filter: drop-shadow(0px 10px 10px #03e9f4); */
     transition: 20ms ease-in-out;
@@ -357,7 +357,7 @@ a {
     height: 280px;
     width: 130px;
     border: 2px solid black;
-    background-image: url("./third_item/item_1.jpg");
+    background-image: url("practice-css/third_item/item_1.jpg");
     background-size: cover;
     filter: drop-shadow(10px 15px 10px #000);
     transition: 20ms ease-in-out;
@@ -423,7 +423,7 @@ ul p{
 .pannellogo{
     height: 50px;
     width: 130px;
-    background-image: url("./amazon-logo.jpg");
+    background-image: url("practice-css/amazon-logo.jpg");
     background-size: cover;
     border-radius: 5px;
     filter: blur(0px);
